@@ -16,7 +16,7 @@ filetype indent on
 "状态栏
 set laststatus=2
 
-set cursorline
+"set cursorline
 "set cursorcolumn
 
 set wrap
@@ -73,4 +73,5 @@ map <C-H> :BufExplorer<CR>
 
 " NERD Tree Settings
 map <C-K> :NERDTreeToggle<CR>
-autocmd VimEnter * NERDTree :NERDTreeToggle
+
+
